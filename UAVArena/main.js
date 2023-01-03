@@ -151,7 +151,7 @@ $(function(){
                 var productId = $(this).val();
 
                 var prefix = "/";
-                if (window.location.href.toLowerCase().indexOf("opendronemap.github.io") !== -1){
+                if (window.location.href.toLowerCase().indexOf("jkarl.github.io") !== -1){
                     prefix = "/UAVArena/";
                 }
 
